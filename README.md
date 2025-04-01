@@ -41,3 +41,9 @@ https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FLtv
 #Checkout this cool interface of how the app will look like after installation right below⬇️
 ![Screenshot_20250401_154454_Meal app (1)](https://github.com/user-attachments/assets/927648a9-1957-4af3-9b6f-7e8dc37c010b)
 
+![image](https://github.com/user-attachments/assets/92857da0-fe9b-4ea6-9462-e52055ca0dcf)
+
+![image](https://github.com/user-attachments/assets/4bf01803-dfb1-4dfd-b5e1-833cbbf2b5a1)
+
+
+
