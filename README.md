@@ -23,6 +23,9 @@ If the tests in the workflow created are successfully ran then a green checkmark
 If the tests were not successfully ran then a red cross❌will appear and click on the red cross to see the error and correct it.
 
 #Github repository click on the link below⬇️
+⚠️**Note for Lecture:**
+This project is on the 'master' branch instead of 'main'.
+To view the code, please switch to 'master' using the downdrop in Github.
 https://github.com/VCSTDN2024/imad5112-assignment-1-st10479733Vutlhari/tree/master
 
 #To see my Kotlin Code leading to the creation of my meal app click on the link below⬇️
