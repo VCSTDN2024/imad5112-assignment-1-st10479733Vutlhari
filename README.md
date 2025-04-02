@@ -22,8 +22,8 @@ Inorder to find the tests you can go to your github repository and click on the 
 If the tests in the workflow created are successfully ran then a green checkmark✅ will appear to indicate that the tests were successful and check if the artifacts are uploaded.
 If the tests were not successfully ran then a red cross❌will appear and click on the red cross to see the error and correct it.
 
-#CREATED A NEW REPOSITORY BY MISTAKE TO ACCESS MOST OF MY WORK PLEASE click on the link below⬇️
-https://github.com/st10479733Vutlhari/meal-app
+#Github repository click on the link below⬇️
+https://github.com/VCSTDN2024/imad5112-assignment-1-st10479733Vutlhari/tree/master
 
 #To see my Kotlin Code leading to the creation of my meal app click on the link below⬇️
 https://github.com/st10479733Vutlhari/meal-app/blob/master/app/src/main/java/vcmsa/ci/mealapp/MainActivity.kt
